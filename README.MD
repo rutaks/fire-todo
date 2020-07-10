@@ -37,6 +37,11 @@ Project was created using [Expo](https://expo.io/). If you want standard native 
 expo eject
 ```
 
-## Preview
+## Previews
+<img src="previews/1.png" width="340" height="590"> 
+<img src="previews/2.png" width="340" height="590"> 
+<img src="previews/3.png" width="340" height="590"> 
+<img src="previews/5.png" width="340" height="590"> 
+<img src="previews/6.png" width="340" height="590"> 
 
 #### Made with :coffee: by [Rutaks](https://github.com/rutaks/)
